@@ -1,0 +1,6 @@
+/Users/walter/FGBU Federal Testing Center/Test/bin/Debug/Test.exe
+/Users/walter/FGBU Federal Testing Center/Test/bin/Debug/Test.pdb
+/Users/walter/FGBU Federal Testing Center/Test/obj/Debug/Test.csproj.AssemblyReference.cache
+/Users/walter/FGBU Federal Testing Center/Test/obj/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/walter/FGBU Federal Testing Center/Test/obj/Debug/Test.exe
+/Users/walter/FGBU Federal Testing Center/Test/obj/Debug/Test.pdb
